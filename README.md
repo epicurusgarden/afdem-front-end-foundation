@@ -271,8 +271,14 @@
 <a href="https://learnxinyminutes.com/docs/javascript/">Learn X in Y Minutes: JavaScript</a>
 </li>
 <li><a href="https://jgthms.com/javascript-in-14-minutes/">JavaScript in 14 minutes</a></li>
+<li><a href="https://30secondsofcode.org/index">30 seconds of code</a></li>
 
   </ul>
+
+<h4>Books</h4>
+<ul>
+<li><a href="https://eloquentjavascript.net/">Eloquent JavaScript by Marijn Haverbeke</a></li>
+<li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS by Kyle Simpson</a></li>
 
 </details>
 
@@ -329,191 +335,6 @@
 </ul>
 </details>
 
-### ADVANCED HTML-CSS
- 
-<details>
-<summary>HTML5 APIs</summary>
-  <p>Syllabus:</p>
-  <h4>References</h4>
-  <ul>
-    <li>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/API"><strong>Web APIs</strong></a>
-    </li>
-	<li>
-      <strong>Media API:</strong>
-	  <ul>
-          <li><i>The Media API is a JavaScript API that is part of HTML5 that allows you to interact with the audio and video elements.</i></li>
-		   <li>
-               <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video">The <strong>&lt;video&gt;</strong> Element</a>    <ul>
-               <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video#Events">Video Element <strong>Events</strong> <i>(play, pause, ended, etc.)</i></a></li>
-               <li><strong>Test Videos:</strong></li>
-               <li><a href="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4">Big Bunny (format: video/mp4)</a></li>
-               <li><a href="http://clips.vorwaerts-gmbh.de/big_buck_bunny.ogv">Big Bunny (format: video/ogg)</a></li>
-               <li><a href="http://clips.vorwaerts-gmbh.de/big_buck_bunny.webm">Big Bunny (format: video/webm)</a></li>
-               </ul>
-           </li>
-       </ul>
-     </li>
-</ul>
-
-  <h4>Resources</h4>
-  <ul>
-  <li><a href="">Coming soon...</a></li>
-  </ul>
-
-</details>
-
-<details>
-<summary>Animation</summary>
-<li><strong>CSS Animations:</strong>
-  <ul>
-    <li><a href="https://thoughtbot.com/blog/css-animation-for-beginners">CSS Animation for Beginners</a></li>
-    <li><a href="https://www.w3schools.com/css/css3_animations.asp">CSS Animations</a></li>
-    <li><a href="https://tympanus.net/codrops/css_reference/keyframes/">Keyframes</a></li>
-  </ul>
-</li>
-
-<li><strong>CSS Animation Libraries:</strong>
-  <ul>
-    <li><a href="https://github.com/daneden/animate.css">AnimateCSS</a></li>
-    <li><a href="https://zurb.com/playground/motion-ui">Motion UI</a></li>
-    <li><a href="http://all-animation.github.io/">All Animation CSS</a></li>
-  </ul>
-</li>
-
-<li><strong>Javascript Animation Libraries:</strong>
-<ul>
-<li><a href="https://threejs.org/">ThreeJS</a></li>
-<li><a href="https://animejs.com/">AnimeJS</a></li>
-<li><a href="http://velocityjs.org/">VelocityJS</a></li>
-</ul>
-</li>
-</details>
-
-<details>
-<summary>Bootstrap 4</summary>
-
-  <h4>Resources</h4>
-  <ul>
-  <li><a href="https://getbootstrap.com/" target="_blank">Official Bootstrap Site</a></li>
-  <li><a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" target="_blank">Get Started</a></li>
-  <li><a href="https://www.w3schools.com/bootstrap4/default.asp" target="_blank">Bootstrap 4 at W3Schools.com</a></li>
-  <li><a href="https://scrimba.com/g/gbootstrap4" target="_blank">Learn Bootstrap 4 at scrimba.com</a>( Highly Recommended )</li>
-  <li><a href="https://medium.freecodecamp.org/learn-the-bootstrap-4-grid-system-in-10-minutes-e83bfae115da">Learn the Bootstrap 4 Grid System in 10 Minutes</a></li>
-  <li><a href="https://hackerthemes.com/bootstrap-cheatsheet/">Bootstrap 4 Cheat Sheet - An interactive list of Bootstrap classes for version 4.3.1</a></li>
-
-  </ul>
-
-</details>
-
-
-<details>
-<summary>jQuery</summary>
-
-  <h4>Resources</h4>
-  <ul>
-<li>
-    <a href="https://books.goalkicker.com/jQueryBook/" target="_blank">jQuery - Notes for Professionals (Free PDF) <strong>[&checkmark;]</strong></a> /
-	<a href="https://github.com/kostasx/EventLoop/blob/master/jquery/resources/jQueryNotesForProfessionals.pdf"><strong>[ View PDF ]</strong></a>
-</li>
-<li>
-    <a href="https://www.w3schools.com/jquery/default.asp" target="_blank">jQuery Tutorial @ w3schools.com</a>
-</li>
-<li>
-    <a href="https://www.w3schools.com/jquery/jquery_fade.asp" target="_blank">fadeIn() / fadeOut() / fadeToggle() / fadeTo()</a>
-</li>
-<li>
-    <a href="https://www.w3schools.com/jquery/jquery_hide_show.asp" target="_blank">show() / hide()</a>
-</li>
-<li>
-    <a href="" target="_blank">To be updated...</a>
-</li>
-  </ul>
-
-</details>
-
-<details>
-<summary>React.JS</summary>
-
-  <h4>Resources</h4>
-  <ul>
-<li>
-	<a href="https://www.taniarascia.com/getting-started-with-react/">Getting Started with React - An Overview and Walkthrough</a>
-</li>
-
-<li>
-	<a href="https://www.youtube.com/watch?v=Ke90Tje7VS0">(YouTube) Learn React - React Crash Course [2019] - React Tutorial with Examples | Mosh</a>
-</li>
-
-<li>
-	<a href="https://scrimba.com/g/glearnreact">Learn React for free</a>
-</li>
-
-<li>
-	<a href="https://www.youtube.com/watch?v=_ZTT9kw3PIE">Introduction to React by Le Wagon [Video] </a>
-</li>
-
-
-<li>
-	<a href="https://www.reddit.com/r/reactjs">React.JS @ Reddit</a>
-</li>
-
-
-<li>
-	<a href="https://medium.freecodecamp.org/what-i-wish-i-knew-when-i-started-to-work-with-react-js-3ba36107fd13">What I wish I knew when I started to work with React.js</a>
-</li>
-<li>
-<strong>React Routing</strong>
-<ul>
-<li><a href="https://reacttraining.com/react-router/web/guides/quick-start">Quick Start</a></li>
-<li><a href="https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path">Difference between <code>&lt;Route exact path=“/” /&gt;</code> and <code>&lt;Route path=“/” /&lt;</code>
-</a></li>
-
-<li>
- <a href="https://epeak.info/2019/03/26/a-bluffers-information-to-react-router-v4-freecodecamp-org/">A Bluffer's Information to React Router V4 – FreeCodeCamp <strong>[&checkmark;]</strong></a>
-</li>
-
-</ul>
-</li>
-
-  </ul>
-
-  <h4>Questions</h4>
-  <ul>
-  <li><strong>Question: </strong><i>How can I import multiple image or any other kind of files in React.JS?</i><br><strong>Answer: </strong><a href="https://stackoverflow.com/questions/44607396/importing-multiple-files-in-react">Stackoverflow: Importing multiple files in react</a></li>
-  <br>
-  <li><strong>Question: </strong><i>How do I get the previous value of state?</i><br><strong>Answer: </strong><br><pre> this.setState(function( prevState ){  
-   return { counter: prevState.counter + 1 }
-});
-</pre></li>
-  </ul>
-</details>
-
-<details>
-<summary>AngularJS</summary>
-
-<h4>Resources</h4>
-<ul>
-<strong>Documentation</strong>
- <li><a href="https://docs.angularjs.org/guide">AngularJS Developer Guide</a></li>
- <li><a href="https://docs.angularjs.org/api">AngularJS API</a></li>
- <li><a href="https://docs.angularjs.org/tutorial/step_00">AngularJS Tutorial</a></li>
- <li><a href="https://github.com/angular/angular-seed">Angular Seed (application skeleton to quickly bootstrap your AngularJS web app).</a></li>
-  </ul>
-
-<ul>
-<strong>Videos</strong>
-<li><a href="https://www.youtube.com/watch?v=i9MHigUZKEM">AngularJS Fundamentals in 60-ish Minutes</a></li>
-<li><a href="https://www.youtube.com/watch?v=8ILQOFAgaXE">Introduction to AngularJS</a></li>
-<li><a href="">AngularJS end-to-end web app tutorial Part I</a></li>
-<li><a href="https://www.youtube.com/watch?v=Ja2xDrtylBw">AngularJS Developer Guide</a></li>
-   
-</ul>
-
-</details>
-
-
-  </ul>
 
 
 
