@@ -183,10 +183,8 @@
 
 <li><a href="https://www.canva.com/font-combinations/">Find the combination</a></li>
 <li><a href="https://fontface.ninja/">Fontface Ninja (tool)</a></li>
-
-
-
-
+</ul>
+<ul>
 <li><strong>Box Model:</strong>
 <ul>
 <li><a href="https://learn.shayhowe.com/html-css/opening-the-box-model/">Opening the Box Model</a></li>
