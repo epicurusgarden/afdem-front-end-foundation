@@ -1,0 +1,129 @@
+
+<!DOCTYPE html>
+<html> 
+   <head>
+       <meta charset="utf-8">
+       <title>HTML Details tag Example</title>
+       <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+       <title>Greek Poems demo</title>
+<style>
+details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: .5em .5em 0;
+}
+
+summary {
+    font-weight: bold;
+    margin: -.5em -.5em 0;
+    padding: .5em;
+}
+
+details[open] {
+    padding: .5em;
+}
+
+#monsterList {
+ background:linear-gradient(135deg, rgb(191, 152, 26) 0%,rgb(216, 90, 24) 100%);
+}
+
+</style>
+   </head>
+   <body>
+    
+    <details>
+        <summary>Μανόλης Αναγνωστάκης</summary>
+        <pre>Κάτω ἀπ' τὶς ῥάγες...
+
+            Κάτω ἀπ' τὶς ῥάγες τοῦ τραίνου
+            Κάτω ἀπὸ τὶς γραμμὲς τοῦ βιβλίου
+            Κάτω ἀπὸ τὰ βήματα τῶν στρατιωτῶν
+            
+            Ὅταν ὅλα περάσουν - πάντα σὲ περιμένω.
+            
+            Πέρασαν ἀπὸ τότε πολλὰ τραῖνα
+            Κι ἄλλα πολλὰ βιβλία θὰ διαβαστοῦν
+            Κι ἄλλοι στρατιῶτες τὸ ἴδιο θὰ πεθάνουν.
+            
+            Κάτω ἄπὸ τὸ κάθε τι ποὺ σοῦ σκεπάζει τὴ ζωὴ
+            Ὅταν ὅλα περάσουν –
+            Σὲ περιμένω. </pre>
+    </details>
+    
+    <details>
+        <summary>Νίκος Καρούζος</summary>
+        <pre>Τὰ πουλιὰ δέλεαρ τοῦ Θεοῦ (ΙΙ)
+
+            Θὰ περάσουν ἀπὸ πάνω μας ὅλοι οἱ τροχοὶ
+            στὸ τέλος
+            τὰ ἴδια τὰ ὄνειρά μας θὰ μᾶς σώσουν.
+            Ἀγάπη μεῖνε στὴν καρδιά -
+            αὐτός ἂς εἶναι ὁ κανών τοῦ τραγουδιοῦ σου.
+            Μὲ τὴν αγάπη
+            θὰ σηκώσουμε τὴν ἀπελπισιά μας
+            ἀπ' τὸ ἀμπάρι τοῦ κορμιοῦ.
+            Δέν εἶναι φορτίο γιὰ τἠ χώρα τῶν ἀγγέλων
+            ἡ ἀπελπισιά.
+            Καὶ προπαντός
+            ἂς μήν ἀφήσουμε τὴν ἀγάπη
+            νὰ συνωστίζεται μὲ τόσα αἰσθήματα... </pre>
+    </details>
+
+    <details>
+        <summary>Μίλτος Σαχτούρης</summary>
+        <pre>Ὁ Ἐλεγκτὴς
+
+            Ἕνας μπαξὲς γεμᾶτος αἷμα εἶν' ὁ οὐρανὸς
+            καὶ λίγο χιόνι
+            ἔσφιξα τὰ σκοινιά μου
+            πρέπει καὶ πάλι νὰ ἐλέγξω
+            τ' ἀστέρια
+            ἐγώ
+            κληρονόμος πουλιῶν
+            πρέπει
+            ἔστω καὶ μὲ σπασμένα φτερά
+            νὰ πετάω.
+             </pre>
+    </details>
+    
+<small>Πηγή:<a href="http://poetry-in-greece.blogspot.com/">Ελληνική Ποίησις</a></small>
+
+<section>
+    <h2>Τhe attribute &lt;title&gt;</h2>
+    <img src="./images/33.png" alt="html code example" title="html code example"/>
+    <p>The &lt;title&gt; attribute is not an acceptable substitute for an &lt;alt&gt; attribute: try to avoid duplicating the alt attribute's value in a title attribute declared on the same image.
+         Doing so may cause some screen readers to announce the description twice, creating a confusing experience.
+         &lt;title&gt; 's value is to be used as a tooltip, which appears shortly after the cursor stops moving over the image. 
+         While this can provide additional information to the user, you should not assume that the user will ever see it. 
+         If you have information that's particularly important or valuable for the user to see, you should present it using <strong>&lt;figure&gt;</strong> or <strong>&lt;figcaption&gt;</strong> instead of using &lt;title&gt;.
+    </p>
+    <hr />
+    <figure>
+            <img src="./images/33.png" alt="html code example"/>
+            <figcaption>HTML code example with &lt;figure&gt; &amp; &lt;figcaption&gt;</figcaption>
+
+    </figure>
+
+    <hr />
+    <article id="monsterList">
+    <fieldset>
+            <legend>Διάλεξε το αρχαίο τέρας που σου ταιριάζει</legend>
+            
+            <label for="Minotauros">Μινώταυρος</label>
+            <input type="radio" name=”monster” id=”Minotauros”/>
+            <label for="Tyfonas">Τυφώνας</label>
+            <input type="radio" name=”monster” id=”Tyfonas”/>
+            <label for="Kentaurus">Κένταυρος</label>
+            <input type="radio" name=”monster” id=”Kentaurus”/>
+    </fieldset>
+    </article>
+
+</section>
+
+<details>
+    <summary>Πως αλλάζω το χρώμα του κέρσορα στο πεδίο μιας φόρμας;</summary>
+    Μέσα από το <code>caret-color</code> CSS property.
+</details> 
+   </body>
+   </html>
